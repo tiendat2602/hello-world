@@ -1,3 +1,5 @@
 # hello-world
 my first repository
-i am a new in github and studing hard
+i am a new in github
+
+this is add more
